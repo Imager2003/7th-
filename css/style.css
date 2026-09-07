@@ -353,7 +353,7 @@ button{ font-family: inherit; cursor:pointer; }
   border-left: 2px solid var(--line);
 }
 
-.earlier-internships{ margin-top: 3rem; padding-top: 2.5rem; border-top: 1px solid var(--line); }
+.earlier-internships{ padding-top: 2.5rem; border-top: 1px solid var(--line); }
 .earlier-grid{ display:grid; grid-template-columns: repeat(3,1fr); gap: 2rem; margin-top:1rem; }
 .earlier-grid h4{ margin: 0 0 0.3rem; font-size: 1rem; font-weight: 600; }
 .earlier-grid p{ margin:0; color: var(--ink-mute); font-size: 0.9rem; }
