@@ -312,7 +312,7 @@ button{ font-family: inherit; cursor:pointer; }
   position:absolute; left:0; top:0; bottom:-2.5rem;
   width:1px; background: var(--line);
 }
-.tl-item:last-child .tl-side::before{ display:none; }
+/* .tl-item:last-child .tl-side::before{ display:none; } */
 .tl-year{ display:block; font-family: var(--serif); font-size: 1.6rem; font-weight:500; margin-bottom: 0.4rem; }
 .tl-meta{ font-size: 0.85rem; color: var(--ink-mute); line-height:1.5; }
 
